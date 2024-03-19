@@ -2,8 +2,6 @@
 
 Este é um aplicativo React Native desenvolvido para ajudar os usuários a encontrarem seu primeiro emprego. O aplicativo fornece uma interface amigável para os usuários pesquisarem por oportunidades de emprego, criar perfis e se candidatarem a vagas disponíveis.
 
-![App Preview](link_para_imagem_do_app)
-
 ## Instalação
 
 Para executar o aplicativo localmente, siga estas etapas:
